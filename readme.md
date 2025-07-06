@@ -9,12 +9,7 @@ Bu proje, araç sahiplerinin araçlarına dair servis geçmişini görüntüleye
 ---
 
 ## 🎥 Uygulama Tanıtım Videosu
-
-<video width="100%" controls>
-  <!-- Google Drive embed URL (may not work directly) -->
-  <source src="https://drive.google.com/uc?export=download&id=1i4v0pnB47gqXTzbzb6HZHPV-oPw49HXl" type="video/mp4">
-  Tarayıcınız video oynatmayı desteklemiyor.
-</video>
+ [Google Drive Tanıtım Videosu](https://drive.google.com/file/d/1i4v0pnB47gqXTzbzb6HZHPV-oPw49HXl/view?usp=sharing)
 
 ---
 
