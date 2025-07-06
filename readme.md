@@ -1,10 +1,25 @@
-# 🚗 Araç Bakım Takip Uygulaması
+# 🚗 Araç Takip Uygulaması
 
 Bu proje, araç sahiplerinin araçlarına dair servis geçmişini görüntüleyebileceği ve servis randevusu alabileceği uçtan uca bir mobil uygulamadır. Modern bir kullanıcı arayüzü ile Flutter kullanılarak geliştirilmiş olup, Firebase servisleriyle entegre backend mimarisine sahiptir.
 
 ![Uygulama Tasarımı](figma.png)
 
 ---
+
+---
+
+## 🎥 Uygulama Tanıtım Videosu
+
+<video width="100%" controls>
+  <source src="https://github.com/lvntaslann/vehicle_tracking_app/raw/main/assets/uygulama_video.mp4" type="video/mp4">
+  Tarayıcınız video etiketini desteklemiyor.
+</video>
+
+---
+
+🔗 [Videoyu ayrı sekmede izlemek için tıklayın](https://github.com/lvntaslann/vehicle_tracking_app/raw/main/uygulama_video.mp4)
+
+
 
 ## 📌 Proje Amacı
 
@@ -80,7 +95,7 @@ Kullanıcıların uygulama üzerinden gerçekleştirebileceği başlıca işleml
         │   ├── auth_services.dart
         │   └── car_services.dart
         │   └── appointment_service.dart
-        │   └── service_record_serivces.dart
+        │   └── service_record_services.dart
         ├── pages/
         ├── ├──auth
         ├──     ├──login.dart
