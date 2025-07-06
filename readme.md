@@ -40,6 +40,8 @@ Bu projenin temel amacı:
 | Backend | Firebase Functions (Node.js / TypeScript) |
 | Veritabanı | Cloud Firestore (NoSQL) |
 | Kimlik Doğrulama | Firebase Authentication |
+| UI/UX Tasarım | Figma |
+| State Management | Provider |
 
 ---
 
