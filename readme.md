@@ -11,13 +11,13 @@ Bu proje, araç sahiplerinin araçlarına dair servis geçmişini görüntüleye
 ## 🎥 Uygulama Tanıtım Videosu
 
 <video width="100%" controls>
-  <source src="https://github.com/lvntaslann/vehicle_tracking_app/raw/main/uygulama_video.mp4" type="video/mp4">
+  <source src="https://github.com/lvntaslann/vehicle_tracking_app/raw/main/uygulama_video.webm" type="video/webm">
   Tarayıcınız video oynatmayı desteklemiyor.
 </video>
 
 ---
 
-🔗 [Videoyu yeni sekmede izlemek için tıklayın](https://github.com/lvntaslann/vehicle_tracking_app/raw/main/uygulama_video.mp4)
+🔗 [Videoyu yeni sekmede izlemek için tıklayın](https://github.com/lvntaslann/vehicle_tracking_app/raw/main/uygulama_video.webm)
 
 
 
